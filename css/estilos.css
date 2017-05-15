@@ -1,0 +1,81 @@
+.fondo{
+background-color: #003333; 
+	height: 70px;
+	padding-bottom: 80px;
+	color: #fff;
+}
+.borde{
+	padding-top: 20px
+}
+
+.logo{
+	color: #fff;
+}
+.letrav{
+	color: #339966;
+}
+.letran{
+	color:#000000;
+}
+.iconoss{
+color: #339966;
+    
+    font-size: 60px;
+	}
+
+.titulos{
+	font-family: Arial;
+	 font-size: 16px;
+	color:  #339966;
+}
+
+.ancho{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.enter {
+padding-bottom: 120px;
+} 
+
+.enter2{
+	padding-bottom:40px; 
+}
+
+.enter3 {
+	padding-bottom: 22px;
+}
+
+.fondov {
+	background-color: #F5F5F5;
+}
+.boton{
+
+    font-size: 80px;
+	
+}
+
+.margen {
+	padding-left: 75px;
+}
+
+
+
+.margeni {
+	padding-left: 25px;
+}
+
+
+.margen2{
+	padding-left: 105px;
+}
+
+.especial{
+	padding-top: 20px
+}
+
+
+.fondop {
+
+background: #DDDDDD;
+}

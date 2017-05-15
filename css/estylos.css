@@ -1,0 +1,217 @@
+/* @import url('bootstrap.min.css');
+@import url('bootstrap-material-design.min.css');
+@import url('ripples.min.css');
+*/
+
+/*.nav > li {
+float:left;
+}
+ 
+.nav li a {
+background:#0c9ba0;
+color:#FFF;
+display:block;
+border:1px solid;
+padding:10px 12px;
+}
+
+.nav li:hover > ul {
+display:block;
+} */
+
+.fijo
+{ 
+	padding-top: 170px;
+
+
+} 
+
+.margen {
+padding-top: 100px;
+
+}		
+
+.fondo1{
+
+	background-color:#F19E1E;
+
+
+}
+.fondoi{
+background:#f21d09;
+	
+}
+
+.inicios{
+	padding-right: 0px;
+    padding-left: 0px;
+}
+
+.ininav{
+	padding-right: 0px;
+    padding-left: 0px;
+}
+
+.navbar{
+
+	background-color:  #e32525;
+}
+
+.letrabl{
+
+	color: #ffffff;
+}
+
+.letrane
+{
+	color: #000000;
+
+}
+
+.letraral{
+
+	color: ##00142C;
+}
+
+.titulos{
+	color: #ffffff;
+}
+
+.letraro
+{
+
+	color:#f21d09;	
+}
+
+.entert{
+padding-bottom: 25px;	
+}
+
+.enter{
+	padding-bottom: 50px;
+}
+
+.enter1
+{
+	   padding-bottom: 150px;
+}
+
+.enter2{
+	padding-top: 120px;
+}
+
+.marcas{
+
+	padding-bottom: 120px;
+	padding-top: 80px;
+}
+
+.logo2{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.iconos{
+	font-size: 15pt;
+}
+
+.iconos2{
+	font-size: 25pt;
+}
+
+
+.tipole { 
+  font: 14px/2 Georgia, serif; 
+}
+
+.tipole2 { 
+  font: 14px/1.5 Georgia, serif; 
+}
+
+.tipole1{
+
+	font: 14px Georgia, serif;
+}
+
+.tam {
+	font-size: 12pt;
+}
+
+.fons {
+
+	font: 28px Arial;
+}
+
+
+
+
+
+
+
+
+
+
+
+.carousel-control.left
+			{
+				background: none;
+			}
+			.carousel-control.right
+			{
+				background: none;
+			}
+
+			.carousel-control
+			{
+				position: absolute;
+				top: 45%;
+				bottom: 0;
+				left: 0;
+				width: 15%;
+				font-size: auto;
+				color: #fff;
+				text-align: center;
+				opacity: 1;
+				text-shadow: none;
+			}
+			.carousel-control:hover
+			{
+				color: #000;
+			}
+			.carousel-indicators
+			{
+				bottom: -50px;
+			}
+			.carousel-indicators li
+			{
+				display: inline-block;
+				width: 10px;
+				height: 10px;
+				margin: 1px;
+				text-indent: -999px;
+				cursor: pointer;
+				background-color: #000\9;
+				background-color: rgba(0,0,0,0);
+				border: 1px solid #16a085;
+				border-radius: 50%;
+			}
+			.carousel-indicators .active
+			{
+				width: 12px;
+				height: 12px;
+				margin: 0;
+				background-color: #16a085;
+			}
+			.carousel-caption
+			{
+				position: absolute;
+				right: 0;
+				bottom: 0;
+				left: 0;
+				z-index: 10;
+				padding-top: 20px;
+				padding-bottom: 20px;
+				color: #fff;
+				text-align: center;
+				background: rgba(0,0,0,0.4);
+			}
